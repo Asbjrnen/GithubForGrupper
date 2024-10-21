@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Diddy Do it or Diddy not?"+ " Yes he did");
         System.out.println("Hello mr. sus");
 
-        System.out.println("omg");
+        System.out.println("oh ma god");
     }
 }
