@@ -13,5 +13,6 @@ public class Main {
         System.out.println("u cant see me!");
         System.out.println("hej");
         System.out.println("med");
+        System.out.println("dig");
             }
 }
