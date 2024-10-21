@@ -12,5 +12,6 @@ public class Main {
         System.out.println("marshallah");
         System.out.println("u cant see me!");
         System.out.println("kæmpe");
+        System.out.println("ko");
     }
 }
