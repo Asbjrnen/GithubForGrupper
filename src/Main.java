@@ -5,5 +5,8 @@ public class Main {
         System.out.println("Hello mr. sus");
         System.out.println("Monald Crump is a new journalist question Bidens lead");
         System.out.println("Donald trump mcd");
+
+
+        System.out.println("Stinger");
     }
 }
