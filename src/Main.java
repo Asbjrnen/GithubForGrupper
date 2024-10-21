@@ -6,6 +6,8 @@ public class Main {
 
         System.out.println("oh ma god");
         System.out.println("omg!!!!!");
+        System.out.println("Abcelemnop");
+        System.out.println("zebra zebra zebra");
         System.out.println("yallah");
         System.out.println("marshallah");
         System.out.println("u cant see me!");
