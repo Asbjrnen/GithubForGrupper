@@ -7,5 +7,6 @@ public class Main {
         System.out.println("oh ma god");
         System.out.println("omg!!!!!");
         System.out.println("Abcelemnop");
+        System.out.println("zebra zebra zebra");
     }
 }
